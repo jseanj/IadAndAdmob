@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C4FA3CD8-772F-45A6-BE6F-E5D3E83E9623</string>
+	<key>IDESourceControlProjectName</key>
+	<string>IadAndAdmob</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8DD9F511-6F2D-4AA6-AA3A-ED64B2B182BF</key>
+		<string>https://github.com/jseanj/IadAndAdmob.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>IadAndAdmob/IadAndAdmob.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8DD9F511-6F2D-4AA6-AA3A-ED64B2B182BF</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jseanj/IadAndAdmob.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8DD9F511-6F2D-4AA6-AA3A-ED64B2B182BF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8DD9F511-6F2D-4AA6-AA3A-ED64B2B182BF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>IadAndAdmob</string>
+		</dict>
+	</array>
+</dict>
+</plist>
